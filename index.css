@@ -14,9 +14,9 @@ overflow: hidden;
 }
 
 
-#imgdiv {
+/* #imgdiv {
     width: 100%;
-}
+} */
 
 
 
@@ -43,10 +43,7 @@ border: none;
 border-radius: 50px;
 }
 
-/* #allimg+div{
-display: flex;
-justify-content: center;
-} */
+
 
 #foot{
 display: flex;
